@@ -1,4 +1,4 @@
-# Hello, I'm [Pablo Villoslada-Blanco] 👋
+# Hello, I'm Pablo Villoslada-Blanco 👋
 
 ## 🌟 About Me
 - 🚀 I'm a Postdoctoral Research Assistant in the Genetic & Molecular Epidemiology Group (GMEG) at Spanish National Cancer Research Center (CNIO) with a passion for Bioinformatics, Computational Biology, and Biostatistics.
