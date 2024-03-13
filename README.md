@@ -15,7 +15,7 @@
 - [PANCAID](https://pancaid-project.eu/) - PANcreatic CAncer Initial Detection via liquid biopsy.
 - Development of a Consensus Molecular Classifier for Pancreatic Ductal Adenocarcinoma.
 
-## Organisations
+## 🏢 Organisations
 - [GMEG-CNIO](https://github.com/GMEG-CNIO)
 
 ## 📫 How to Reach Me
