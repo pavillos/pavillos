@@ -15,6 +15,9 @@
 - [PANCAID](https://pancaid-project.eu/) - PANcreatic CAncer Initial Detection via liquid biopsy.
 - Development of a Consensus Molecular Classifier for Pancreatic Ductal Adenocarcinoma.
 
+## Organisations
+- [GMEG-CNIO](https://github.com/GMEG-CNIO)
+
 ## 📫 How to Reach Me
 - 🌍 LinkedIn: [Pablo Villoslada-Blanco](https://www.linkedin.com/in/pablo-villoslada-blanco-5a4b2316a/)
 - 🔍 ResearchGate: [Pablo Villoslada-Blanco](https://www.researchgate.net/profile/Pablo-Villoslada-Blanco)
