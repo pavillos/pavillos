@@ -12,7 +12,7 @@
 - Skills: Bioinformatics, Computational Biology, Biostatistics, Statistical Data Analysis, Data Science, Machine Learning, Deep Learning, Microbiome Analysis, Omics Data Analysis, and others.
 
 ## 🌐 Featured Projects
-- [PANCAID](https://pancaid-project.eu/) - PANcreatic CAncer Initial Detection via liquid biopsy.
+- [PANCAID](https://github.com/GMEG-CNIO/PANCAID) - PANcreatic CAncer Initial Detection via liquid biopsy.
 - Development of a Consensus Molecular Classifier for Pancreatic Ductal Adenocarcinoma.
 
 ## 🏢 Organizations
