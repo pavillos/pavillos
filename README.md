@@ -5,15 +5,16 @@
 - 📚 Focused on Pancreatic Ductal Adenocarcinoma (PDAC).
 - 🌱 Currently learning Molecular Epidemiology, Machine Learning and Deep Learning.
 - 🏅 Fun fact: I am also an athlete.
-- 📜 Biography: Pablo Villoslada Blanco got his Degree in Biochemistry (Universidad Autónoma de Madrid (UAM), 2017) with a work focused on “cerebral ischemia” carried out at the Instituto de Investigaciones Biomédicas “Alberto Sols”. Afterwards, he returned to Logroño (La Rioja, Spain), his native city, where he brought out the Master degree in Chemistry and Biotechnology from Universidad de La Rioja, with a rating of 9.07 and the Extraordinary award for the best academic record. His Master’s Thesis was focused on “genomics applied to the grapevine” and was supervised by Dr. José Miguel Martínez Zapater and Dr. Pablo Carbonell Bejerano from Instituto de Ciencias de la Vid y el Vino (ICVV). In October 2018, he got a student grant from Consejería de Desarollo Económico e Innovación de La Rioja in order to carry out the Doctoral Thesis entitled “Impact of integrase inhibitors on gut and oral microbiome” in the group of “Infectious Diseases, Microbiota and Metabolism” (CIBIR) under the supervision of Dr. José Antonio Oteo Revuelta and Dra. Patricia Pérez Matute. This thesis was defended on the 19th of December 2022 getting a grade of “Cum laude” and an International Doctorate Mention. During those years of doctoral learning, he acquired great experience in the bioinformatic analysis of metagenomic data. In addition, in 2021 he did a doctoral stay in the Laboratory of Viral Metagenomics of KU Leuven (Leuven, Belgium) where he expanded this knowledge including the study of bacteria and viruses. After that, in 2024, he completed a Master in Bioinformatics and Computational Biology at the UAM (rating of 9.36) with a work focused on the "Development of a Consensus Molecular Classifier for Pancreatic Ductal Adenocarcinoma" (rating of 10, Distinction with Honors). Currently, since June 2023, he works as a Postdoctoral Research Assistant in the Genetic & Molecular Epidemiology Group (GMEG) at the Spanish National Cancer Research Center (CNIO) and he is also studying a Master in Biostatistics at the Complutense University of Madrid (UCM).
 
 ## 💻 Skills and Technologies
 - Programming Languages: Linux, R, Python, SQL, NoSQL, and others.
 - Skills: Bioinformatics, Computational Biology, Biostatistics, Statistical Data Analysis, Data Science, Machine Learning, Deep Learning, Microbiome Analysis, Omics Data Analysis, and others.
 
 ## 🌐 Featured Projects
-- [PANCAID](https://github.com/GMEG-CNIO/PANCAID) - PANcreatic CAncer Initial Detection via liquid biopsy.
-- Development of a Consensus Molecular Classifier for Pancreatic Ductal Adenocarcinoma.
+- [PANCAID]() - PANcreatic CAncer Initial Detection via liquid biopsy.
+- [PDACMOC](https://github.com/pavillos/PDACMOC) - Development of a consensus molecular classifier for PDAC.
+- [PDAC_virome]() - Virome analyisis in PDAC patients.
+- [PDAC&DM]() - Complex interplays between PDAC and diabetes mellitus at spatial transcriptomics resolution.
 
 ## 🏢 Organizations
 - [GMEG-CNIO](https://github.com/GMEG-CNIO)
