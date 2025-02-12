@@ -8,7 +8,7 @@
 
 ## 💻 Skills and Technologies
 - Programming Languages: Linux, R, Python, SQL, NoSQL, and others.
-- Skills: Bioinformatics, Computational Biology, Biostatistics, Statistical Data Analysis, Data Science, Machine Learning, Deep Learning, Microbiome Analysis, Omics Data Analysis, and others.
+- Skills: Bioinformatics, Computational Biology, Biostatistics, Data Science, Data Visualization, Statistical Data Analysis, Bayesian Statistics, Survival Analysis, Epidemiology & Causality, Artificial Intelligence, Machine & Deep Learning, Microbiome Analysis, Omics Data Analysis, and others.
 
 ## 🌐 Featured Projects
 - [PANCAID]() - PANcreatic CAncer Initial Detection via liquid biopsy.
