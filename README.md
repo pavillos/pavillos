@@ -7,7 +7,7 @@
 - 🏅 Fun fact: I am also an athlete.
 
 ## 💻 Skills and Technologies
-- Programming Languages: Linux, R, Python, SQL, NoSQL, and others.
+- Programming Languages: Linux, R, Python, Nextflow, Snakemake, SQL, NoSQL, and others.
 - Skills: Bioinformatics, Computational Biology, Biostatistics, Data Science, Data Visualization, Statistical Data Analysis, Bayesian Statistics, Survival Analysis, Epidemiology & Causality, Artificial Intelligence, Machine & Deep Learning, Microbiome Analysis, Omics Data Analysis, and others.
 
 ## 🌐 Featured Projects
@@ -20,7 +20,7 @@
 - [GMEG-CNIO](https://github.com/GMEG-CNIO)
 
 ## 📫 How to Reach Me
-- 🌍 LinkedIn: [Pablo Villoslada-Blanco](https://www.linkedin.com/in/pablo-villoslada-blanco-5a4b2316a/)
+- 🌍 LinkedIn: [Pablo Villoslada-Blanco](https://www.linkedin.com/in/pablo-villoslada-blanco/)
 - 🔍 ResearchGate: [Pablo Villoslada-Blanco](https://www.researchgate.net/profile/Pablo-Villoslada-Blanco)
 - 📧 Email: [pvilloslada@cnio.es](mailto:pvilloslada@cnio.es) and [pablo.villoslada@gmail.com](mailto:pablo.villoslada@gmail.com)
 
