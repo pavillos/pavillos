@@ -1,7 +1,5 @@
 # Hi, I'm Pablo Villoslada-Blanco 👋
 
-> Postdoctoral researcher at CNIO applying AI and multiomics to early cancer detection and precision medicine, with a focus on pancreatic cancer and liquid biopsy biomarkers.
-
 Currently leading data management & AI analysis in **WP3** of **PANCAID** (Horizon Europe) — early detection of pancreatic cancer from liquid biopsy.
 
 ### What I work on
@@ -18,6 +16,6 @@ Machine & Deep Learning · Python · R · Software Development · Containerizati
 
 ### Find me
 
-[Website](https://pvilloslada.com) · [LinkedIn](https://www.linkedin.com/in/pablo-villoslada-blanco/) · [ORCID](https://orcid.org/0000-0002-1220-5228) · [Google Scholar](https://scholar.google.es/citations?user=9kkW0eoAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Pablo-Villoslada-Blanco)
+[Website](https://pvilloslada.com) · [ORCID](https://orcid.org/0000-0002-1220-5228) · [LinkedIn](https://www.linkedin.com/in/pablo-villoslada-blanco/) · [Google Scholar](https://scholar.google.es/citations?user=9kkW0eoAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Pablo-Villoslada-Blanco)
 
 📧 pvilloslada@cnio.es · pablo.villoslada@gmail.com
